@@ -1,0 +1,33 @@
+{
+  "name": "artsnap",
+  "version": "1.0.0",
+  "description": "A one-stop-shop for managing art condition reports.",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AchintyaAshok/ArtSnap.git"
+  },
+  "keywords": [
+    "art",
+    "snap",
+    "achintya",
+    "ashok",
+    "registrar",
+    "registration",
+    "artwork",
+    "gallery",
+    "condition",
+    "report",
+    "condition",
+    "reports"
+  ],
+  "author": "Achintya Ashok",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AchintyaAshok/ArtSnap/issues"
+  },
+  "homepage": "https://github.com/AchintyaAshok/ArtSnap#readme"
+}
